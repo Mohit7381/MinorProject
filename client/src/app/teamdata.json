@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ashmith Bhardawaj",
+    "title": "GDSC Lead",
+    "image": "/img/Ashmit.jpeg"
+  },
+  {
+    "name": "Mohit Singh",
+    "title": "Tech Lead",
+    "image": "/img/Mohit Singh.png"
+  },
+  {
+    "name": "Abhideep",
+    "title": "Core member",
+    "image": "/img/Abhideep.png"
+  },
+  {
+    "name": "Karthik",
+    "title": "Core member",
+    "image": "/img/Karthik Gowda.jpg"
+  },
+  {
+    "name": "Sarvas",
+    "title": "Core member",
+    "image": "/img/Sarvas.jpg"
+  },
+  {
+    "name": "Satwik",
+    "title": "Core member",
+    "image": "/img/Sathwik Kini.jpg"
+  },
+  {
+    "name": "Rohan",
+    "title": "Core member",
+    "image": "/img/Rohan.png"
+  },
+  {
+    "name": "Vikas",
+    "title": "Open Source Guru",
+    "image": "/img/Vikas Rai.jpg"
+  }
+]

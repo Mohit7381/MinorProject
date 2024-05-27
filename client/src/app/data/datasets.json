@@ -1,0 +1,134 @@
+{
+    "questions": [
+     {
+      "questionId": "Q1",
+      "topic": "Social Science",
+      "question": "Who was the first prime minister of India?",
+      "answer": "Jawaharlal Nehru",
+      "options": [
+       "Mahatma Gandhi",
+       "Lal Bahadur Shastri",
+       "Indira Gandhi",
+       "Jawaharlal Nehru"
+      ],
+      "difficulty": "hard"
+     },
+     {
+      "questionId": "Q2",
+      "topic": "Social Science",
+      "question": "What is the capital of France?",
+      "answer": "Paris",
+      "options": [
+       "London",
+       "Rome",
+       "Berlin",
+       "Paris"
+      ],
+      "difficulty": "hard"
+     },
+     {
+      "questionId": "Q3",
+      "topic": "Social Science",
+      "question": "What is the largest country in the world by land area?",
+      "answer": "Russia",
+      "options": [
+       "Canada",
+       "China",
+       "United States",
+       "Russia"
+      ],
+      "difficulty": "hard"
+     },
+     {
+      "questionId": "Q4",
+      "topic": "Social Science",
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "answer": "Japan",
+      "options": [
+       "China",
+       "India",
+       "South Korea",
+       "Japan"
+      ],
+      "difficulty": "hard"
+     },
+     {
+      "questionId": "Q5",
+      "topic": "Social Science",
+      "question": "What is the largest ocean in the world?",
+      "answer": "Pacific Ocean",
+      "options": [
+       "Atlantic Ocean",
+       "Indian Ocean",
+       "Arctic Ocean",
+       "Pacific Ocean"
+      ],
+      "difficulty": "hard"
+     },
+     {
+      "questionId": "Q6",
+      "topic": "Social Science",
+      "question": "What is the most populous country in the world?",
+      "answer": "China",
+      "options": [
+       "India",
+       "United States",
+       "Indonesia",
+       "China"
+      ],
+      "difficulty": "hard"
+     },
+     {
+      "questionId": "Q7",
+      "topic": "Social Science",
+      "question": "Who is the current president of the United States?",
+      "answer": "Joe Biden",
+      "options": [
+       "Donald Trump",
+       "Barack Obama",
+       "George W. Bush",
+       "Joe Biden"
+      ],
+      "difficulty": "hard"
+     },
+     {
+      "questionId": "Q8",
+      "topic": "Social Science",
+      "question": "Which country is known as the 'Land Down Under'?",
+      "answer": "Australia",
+      "options": [
+       "New Zealand",
+       "South Africa",
+       "Canada",
+       "Australia"
+      ],
+      "difficulty": "hard"
+     },
+     {
+      "questionId": "Q9",
+      "topic": "Social Science",
+      "question": "What is the capital of Brazil?",
+      "answer": "Brasilia",
+      "options": [
+       "Rio de Janeiro",
+       "Sao Paulo",
+       "Salvador",
+       "Brasilia"
+      ],
+      "difficulty": "hard"
+     },
+     {
+      "questionId": "Q10",
+      "topic": "Social Science",
+      "question": "What is the largest desert in the world?",
+      "answer": "Sahara Desert",
+      "options": [
+       "Gobi Desert",
+       "Arabian Desert",
+       "Patagonian Desert",
+       "Sahara Desert"
+      ],
+      "difficulty": "hard"
+     }
+    ]
+}
